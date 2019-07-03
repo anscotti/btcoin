@@ -4,7 +4,7 @@ The CNC mill I have access tois a pretty standard German made 3020 from my maker
 I designed the coin in Fusion360 and, as you could guess, I was looking for a challenge: curved surfaces, inset features and parts relying on machining operations to become visible; things I had never tried before. 
 To machine all that on a 3 axis cnc mill I had to split the work into two setups: one for the top side and one for the bottom side and take into account how the part would remain fixed until the very last second.
 
-![3D Rendering](../master/coin.jpg.png?raw=true)
+![3D Rendering](../master/coin.jpg?raw=true)
 
 Luckily Fusion360 helped me a lot in the process, but not as much as to prevent me to perpetrate some mistakes and break some bits: unluckily the coin wasn't available yet, so I couldn't spend it to regain the broken parts.
 
