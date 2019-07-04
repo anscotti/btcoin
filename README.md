@@ -44,8 +44,8 @@ The concave coin surface is made by two separate spirally actions, both having a
 
 > Applies on both sides
 
-![3D Radial - Inner Pass](../master/radial-inner.png?raw=true)
-![3D Radial - Outer Pass](../master/radial-outer.png?raw=true)
+![3D Radial - Inner Pass](../master/spiral-inner.png?raw=true)
+![3D Radial - Outer Pass](../master/spiral-outer.png?raw=true)
 
 #### Engraveyard
 
